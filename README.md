@@ -1,7 +1,7 @@
 # inferno-chatbot
 # We have done this chatbot in a team of three and the contributors are 18pa1a0517,18pa1a0519,18pa1a0520.
 
-# OBJECTIVE : This is the chatbot which suggests you the best app according to your requires category. 
+# OBJECTIVE : This is the chatbot which suggests you the best app according to your required category. 
 
 DESCRIPTION : Firstly our bot greets the user and asks to enter the name of the user.Next the bot asks the user to choose an option in which category the user required.
 
